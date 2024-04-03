@@ -5,7 +5,7 @@ incluyendo ejercicios y cobertura para distintos niveles de conocimiento.
 
 ## 📌 Herramientas
 
-Visual code:  https://code.visualstudio.com/
+ - Visual code:  https://code.visualstudio.com/
 
 ## 📌 Extensiones para Visual Studio
 - Python: https://marketplace.visualstudio.com/items?itemName=ms-python.python
