@@ -8,11 +8,11 @@ incluyendo ejercicios y cobertura para distintos niveles de conocimiento.
 Visual code:  https://code.visualstudio.com/
 
 ## 📌 Extensiones para Visual Studio
-Python: https://marketplace.visualstudio.com/items?itemName=ms-python.python
+- Python: https://marketplace.visualstudio.com/items?itemName=ms-python.python
 
-Material Icon Theme: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+- Material Icon Theme: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
 
-indent-rainbow: https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
+- indent-rainbow: https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
 
 ## 📌 Recursos de ayuda 👨‍💻
 
