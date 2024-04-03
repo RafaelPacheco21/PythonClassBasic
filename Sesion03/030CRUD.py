@@ -66,7 +66,6 @@ while True:
             time.sleep(2)
             os.system('cls')
             break
-        
         time.sleep(2)
         os.system('cls')
     else:
