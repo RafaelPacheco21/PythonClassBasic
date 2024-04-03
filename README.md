@@ -1,33 +1,18 @@
-# 📌 Python Basico
+#📌 Python Basico
 
 Curso gratuito para aprender el lenguaje de programación Python con un enfoque práctico,
 incluyendo ejercicios y cobertura para distintos niveles de conocimiento.
 
-## Instalación
+##📌 Herramientas
 
-Descarga Python aqui: https://www.python.org/
+Visual code:  https://code.visualstudio.com/
 
-## Uso
+##📌 Extensiones para Visual Studio
+Python: https://marketplace.visualstudio.com/items?itemName=ms-python.python
+Material Icon Theme: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+indent-rainbow: https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
 
-Ejemplos de cómo usar el proyecto.
-
-## Documentación
-
-Enlace a la documentación adicional.
-
-## Contribuciones
-
-Instrucciones para contribuir al proyecto.
-
-## Licencia
-
-Licencia bajo la cual se distribuye el proyecto.
-
-## Contacto
-
-Información de contacto del desarrollador/mantenedor.
-
-## 📌 Recursos de ayuda 👨‍💻
+##📌 Recursos de ayuda 👨‍💻
 
 [aprendepython.pdf](https://github.com/RafaelPacheco21/PythonClassBasic/files/14855123/aprendepython.pdf)
 
