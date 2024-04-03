@@ -1,4 +1,4 @@
-# Python Basico
+# 📌 Python Basico
 
 Curso gratuito para aprender el lenguaje de programación Python con un enfoque práctico,
 incluyendo ejercicios y cobertura para distintos niveles de conocimiento.
@@ -27,7 +27,7 @@ Licencia bajo la cual se distribuye el proyecto.
 
 Información de contacto del desarrollador/mantenedor.
 
-## Documentos de ayuda
+## 📌 Documentos de ayuda 👨‍💻
 
 [aprendepython.pdf](https://github.com/RafaelPacheco21/PythonClassBasic/files/14855123/aprendepython.pdf)
 
