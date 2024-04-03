@@ -1,12 +1,10 @@
 #Create (agregar) Read (leer o buscar) Update (actualizar) Delete (Eliminar) #Transaccionales (puntos de ventas) -->CRM-->ERP-->BSC
-#mysql
-#create
+#Transaccionales(puntos de ventas)-->CRM-->ERP-->BSC 
 #mysql
 #create
 import os #nos permite usar instrucciones de nuestro sistema operativo import time
 import time
 lista=[]
-
 while True:
     print('---MENU PRINCIPAL---'
           '\n1. Insertar un dato.'
@@ -49,9 +47,27 @@ while True:
         if(datoAnterior in lista):
             indice=lista.index(datoAnterior)
             datoNuevo =input('Ingresa el dato nuevo: ')
-            lista[indice]=datoNuevoprint('El dato se sobreescribio correctamente...')
+            lista[indice]=datoNuevo
+            print('El dato se sobreescribio correctamente...')
             time.sleep(2)
             os.system('cls')
         else:
             print(f'El dato {datoAnterior} no existe en la lista...') 
             time.sleep(2)
+    elif(opcion==5):#Mostrar el contenido de la lista.\
+        print('El contenido de la Lista es: ')
+        print(lista)
+        time.sleep(4)
+        os.system('cls')
+    elif(opcion==6):#Salir.
+        respuesta=input('Estas seguro que quieres salir? (s/n): ')
+        if(respuesta=='s' or respuesta=='S'):
+            print('Saliendo...')
+            time.sleep(2)
+            os.system('cls')
+            break
+        
+        time.sleep(2)
+        os.system('cls')
+    else:
+        print('Opción no valida...')
