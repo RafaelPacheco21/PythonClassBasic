@@ -1,3 +1,36 @@
+# Título del Proyecto
+
+Descripción breve del proyecto.
+
+## Instalación
+
+Instrucciones para instalar el proyecto.
+
+## Uso
+
+Ejemplos de cómo usar el proyecto.
+
+## Documentación
+
+Enlace a la documentación adicional.
+
+## Contribuciones
+
+Instrucciones para contribuir al proyecto.
+
+## Licencia
+
+Licencia bajo la cual se distribuye el proyecto.
+
+## Contacto
+
+Información de contacto del desarrollador/mantenedor.
+
+## Capturas de Pantalla
+
+Capturas de pantalla del proyecto (si es relevante).
+
+
 #Clases de Python Basico
 -Curso gratuito para aprender el lenguaje de programación Python con un enfoque práctico,
 incluyendo ejercicios y cobertura para distintos niveles de conocimiento.
