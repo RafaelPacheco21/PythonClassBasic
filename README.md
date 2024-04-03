@@ -16,10 +16,10 @@ incluyendo ejercicios y cobertura para distintos niveles de conocimiento.
 
 ## 📌 Recursos de ayuda 👨‍💻
 
-📘 [aprendepython.pdf](https://github.com/RafaelPacheco21/PythonClassBasic/files/14855123/aprendepython.pdf)
+ 📘 [aprendepython.pdf](https://github.com/RafaelPacheco21/PythonClassBasic/files/14855123/aprendepython.pdf)
 
-📘 [aprenda-a-pensar-como-un-programador-con-python.pdf](https://github.com/RafaelPacheco21/PythonClassBasic/files/14855125/aprenda-a-pensar-como-un-programador-con-python.pdf)
+ 📘 [aprenda-a-pensar-como-un-programador-con-python.pdf](https://github.com/RafaelPacheco21/PythonClassBasic/files/14855125/aprenda-a-pensar-como-un-programador-con-python.pdf)
 
-📘 [Fundamentos de python.pdf](https://github.com/RafaelPacheco21/PythonClassBasic/files/14855126/Fundamentos.de.python.pdf)
+ 📘 [Fundamentos de python.pdf](https://github.com/RafaelPacheco21/PythonClassBasic/files/14855126/Fundamentos.de.python.pdf)
 
-📘 [Fundamentos de python.pptx](https://github.com/RafaelPacheco21/PythonClassBasic/files/14855128/Fundamentos.de.python.pptx)
+ 📘 [Fundamentos de python.pptx](https://github.com/RafaelPacheco21/PythonClassBasic/files/14855128/Fundamentos.de.python.pptx)
