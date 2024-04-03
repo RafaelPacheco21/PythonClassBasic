@@ -5,7 +5,7 @@ incluyendo ejercicios y cobertura para distintos niveles de conocimiento.
 
 ## Instalación
 
-Instrucciones para instalar el proyecto.
+Descarga Python aqui: https://www.python.org/
 
 ## Uso
 
@@ -27,7 +27,7 @@ Licencia bajo la cual se distribuye el proyecto.
 
 Información de contacto del desarrollador/mantenedor.
 
-## 📌 Documentos de ayuda 👨‍💻
+## 📌 Recursos de ayuda 👨‍💻
 
 [aprendepython.pdf](https://github.com/RafaelPacheco21/PythonClassBasic/files/14855123/aprendepython.pdf)
 
